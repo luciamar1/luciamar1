@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=zarpos&count_private=true&title_color=FBA92C&text_color=FFFFFF&icon_color=FBA92C&bg_color=0D1117&hide_border=true" alt="Github stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=luciamar1&count_private=true&title_color=FBA92C&text_color=FFFFFF&icon_color=FBA92C&bg_color=0D1117&hide_border=true" alt="Github stats">
 </div>
 <!-- To customise ^ https://github-readme-streak-stats.herokuapp.com/demo -->
 <div align="center">
