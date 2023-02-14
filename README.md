@@ -3,10 +3,10 @@
 </div>
 <!-- To customise ^ https://github-readme-streak-stats.herokuapp.com/demo -->
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=zarpos&hide_border=true&background=0D1117&stroke=FFFFFF&sideNums=FFFFFF&ring=FBA92C&fire=FBA92C&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555" alt="Github streak stats">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=luciamar1&hide_border=true&background=0D1117&stroke=FFFFFF&sideNums=FFFFFF&ring=FBA92C&fire=FBA92C&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555" alt="Github streak stats">
 </div>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarpos&layout=compact&langs_count=6e&title_color=FBA92C&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Language count">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciamar1&layout=compact&langs_count=6e&title_color=FBA92C&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Language count">
 </div>
 
 
